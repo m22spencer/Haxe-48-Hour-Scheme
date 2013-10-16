@@ -1,0 +1,5 @@
+package ;
+
+enum Unit {
+  Unit;
+}
